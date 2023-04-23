@@ -1,7 +1,7 @@
 {
   "name": "RA8875",
   "keywords": "display, spi, tft",
-  "description": "RAiO RA8875 display driver",
+  "description": "RA8875 display driver",
   "repository":
   {
     "type": "git",
